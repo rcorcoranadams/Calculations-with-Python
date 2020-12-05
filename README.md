@@ -1,4 +1,4 @@
-# Lab 1 – Calculations with Python
+# Calculations with Python
 # Rachel Corcoran-Adams
 # September 4, 2020
 Python version: 2.7.5
